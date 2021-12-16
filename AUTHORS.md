@@ -54,6 +54,13 @@ the following authors:
     </td></tr>
 <tr>
     <td align="center">
+        <a href="https://github.com/gabriel-libardi">
+            <img src="https://avatars.githubusercontent.com/u/93263761?v=4" width="100;" alt="gabriel-libardi"/>
+            <br />
+            <sub><b>Gabriel Franceschi Libardi</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/gabriel-vr">
             <img src="https://avatars.githubusercontent.com/u/66570705?v=4" width="100;" alt="gabriel-vr"/>
             <br />
@@ -65,13 +72,6 @@ the following authors:
             <img src="https://avatars.githubusercontent.com/u/85318248?v=4" width="100;" alt="CarlosCraveiro"/>
             <br />
             <sub><b>Carlos Henrique Craveiro Aquino Veras</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/gabriel-libardi">
-            <img src="https://avatars.githubusercontent.com/u/93263761?v=4" width="100;" alt="gabriel-libardi"/>
-            <br />
-            <sub><b>Gabriel Franceschi Libardi</b></sub>
         </a>
     </td>
     <td align="center">
